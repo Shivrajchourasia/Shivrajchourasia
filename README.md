@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWd5bmt6eHpvbzFkMGxubWt0cmwzOHYxZDZraXFwOW95eHNhaTJoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Welcome" width="500" />
+  <img src="https://www.softwebsolutions.com/wp-content/uploads/2024/05/Data-Analytics-blog.webp" alt="Welcome" width="500" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shivraj Chourasia</h1>
